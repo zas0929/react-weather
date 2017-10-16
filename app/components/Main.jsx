@@ -11,6 +11,7 @@ var Main = React.createClass({
             <div className="columns medium-6 large-4 small-centered">
               {this.props.children}
             </div>
+            <p>next - 058</p>
           </div>
         </div>
       );
